@@ -4,3 +4,4 @@ pub mod longest_substring_without_repeating_characters; // https://leetcode.cn/p
 pub mod median_of_two_sorted_arrays; // https://leetcode.cn/problems/median-of-two-sorted-arrays/description/
 pub mod palindrome_number; // https://leetcode.cn/problems/palindrome-number/description/
 pub mod reverse_integer; // https://leetcode.cn/problems/reverse-integer/description/
+pub mod string_to_integer_atoi; // https://leetcode.cn/problems/string-to-integer-atoi/description/
