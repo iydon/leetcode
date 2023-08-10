@@ -5,3 +5,4 @@ pub mod median_of_two_sorted_arrays; // https://leetcode.cn/problems/median-of-t
 pub mod palindrome_number; // https://leetcode.cn/problems/palindrome-number/description/
 pub mod reverse_integer; // https://leetcode.cn/problems/reverse-integer/description/
 pub mod string_to_integer_atoi; // https://leetcode.cn/problems/string-to-integer-atoi/description/
+pub mod two_sum; // https://leetcode.cn/problems/two-sum/description/
