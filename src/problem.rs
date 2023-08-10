@@ -6,3 +6,4 @@ pub mod palindrome_number; // https://leetcode.cn/problems/palindrome-number/des
 pub mod reverse_integer; // https://leetcode.cn/problems/reverse-integer/description/
 pub mod string_to_integer_atoi; // https://leetcode.cn/problems/string-to-integer-atoi/description/
 pub mod two_sum; // https://leetcode.cn/problems/two-sum/description/
+pub mod zigzag_conversion; // https://leetcode.cn/problems/zigzag-conversion/description/ // https://leetcode.cn/problems/palindrome-number/description/
